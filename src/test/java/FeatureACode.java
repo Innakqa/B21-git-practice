@@ -3,5 +3,6 @@ public class FeatureACode {
 
         System.out.println("Awesome work");
         System.out.println("git git git");
+        System.out.println("Commit branch before moving to local master");
     }
 }
