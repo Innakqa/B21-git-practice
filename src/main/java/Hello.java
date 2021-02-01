@@ -4,7 +4,11 @@ public class Hello {
         System.out.println("Hello World, B22");
         System.out.println("B21 ... SDETs");
 
-        //test under main
+        //movie on the phone 10 minutes
+        //movie on the phone 20 minutes
+        //final hour
+        //another 10 mins before going back to living room
+
     }
 }
 // Oh I like the movie. Who played it? Let me continue!
